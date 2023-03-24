@@ -1,6 +1,6 @@
 # About
 
-Welcome to my GitHub folder! Here, you will find my work on various deep learning projects using PyTorch and other neural network architectures.
+Welcome to my Neural Network's folder! Here, you will find my work on various deep learning projects using PyTorch and other neural network architectures.
 
 ## Projects
 
