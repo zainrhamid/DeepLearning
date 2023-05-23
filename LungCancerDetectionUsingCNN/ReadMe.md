@@ -28,6 +28,10 @@ Before running the project, ensure that the following dependencies are installed
 - NumPy 
 - Matplotlib 
 
+## Dataset
+
+Dataset can be downloaded through this link https://drive.google.com/file/d/16aD8zoymIpg2V10iRroTu-F8kb3cKjI9/view?usp=sharing
+
 ## Contact
 
 For any inquiries or questions, please contact bu@zainrhamid.com.
