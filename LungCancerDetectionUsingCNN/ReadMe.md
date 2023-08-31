@@ -34,6 +34,6 @@ Dataset can be downloaded through this link https://drive.google.com/file/d/16aD
 
 ## Contact
 
-For any inquiries or questions, please contact bu@zainrhamid.com.
+For any inquiries or questions, please contact z@zainrhamid.com.
 
 Happy coding!
